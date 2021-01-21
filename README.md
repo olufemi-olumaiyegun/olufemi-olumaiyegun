@@ -1,9 +1,7 @@
-### Olufemi Olumaiyegun👋
+### Olufemi Olumaiyegun
 
-
-**olufemi-olumaiyegun/olufemi-olumaiyegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p>Hi there, welcome to my picture book of programs!👋🏿<p>
+  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
