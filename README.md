@@ -1,6 +1,6 @@
 
 
-**<p>Hi there, welcome to my picture book of programs!👋🏿</p>**
+**<h2>Hi there, welcome to my picture book of programs!👋🏿</h2>**
 <p>Have a look around and leave with whatever you want.</p>
   
 
@@ -10,5 +10,5 @@
 <p>Nevertheless, I am also involved in DevOps on AWS, CISCO networking and cloud security<p>
   
   
-  <h5>Looking out for internships so reach me at olufemiolumaiyegun@my.unt.edu</h5>
+  <h5>Looking out for internships, if you have offers or ideas please reach me at olufemiolumaiyegun@my.unt.edu</h5>
 
