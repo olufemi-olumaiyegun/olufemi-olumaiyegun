@@ -1,6 +1,6 @@
 
 
-**<h2>Hi there, welcome to my picture book of programs!👋🏿</h2>**
+**<h2>Hi there, welcome to my album of programs!👋🏿</h2>**
 <p>Have a look around and leave with whatever you want.</p>
   
 
