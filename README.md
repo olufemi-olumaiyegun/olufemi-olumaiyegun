@@ -10,5 +10,4 @@
 <p>Nevertheless, I am also involved in DevOps on AWS + CISCO networking and cloud security<p>
   
   
-  <h5>Looking out for internships, if you have offers or ideas please reach out to me at olufemiolumaiyegun@my.unt.edu</h5>
 
