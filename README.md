@@ -16,7 +16,7 @@
     http://www.fplrankings.com - Fantasy Premier League tool for live player and classic league data
   </li>
   <li>
-    http://www.heyfemi.com/home
+    https://www.heyfemi.com/home
   </li>
   
   <li>
