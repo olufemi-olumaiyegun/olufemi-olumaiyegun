@@ -10,7 +10,6 @@
 <p>Nevertheless, I am also involved in DevOps on AWS + CISCO networking and cloud security<p>
   
 <h3> Check out some of my live and archived websites </h3>
-
 <ul>
   <li>
     http://www.fplrankings.com - Fantasy Premier League tool for live player and classic league data
